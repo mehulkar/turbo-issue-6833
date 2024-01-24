@@ -1,1 +1,1 @@
-apps/app-a/somefile.txt
+../app-a/somefile.txt

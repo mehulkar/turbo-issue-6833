@@ -1,0 +1,15 @@
+{
+  "name": "turbo-issue-6833",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "packageManager": "npm@9.8.1",
+  "workspaces": [
+    "apps/*"
+  ]
+}

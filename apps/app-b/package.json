@@ -1,0 +1,6 @@
+{
+  "name": "app-b",
+  "scripts": {
+    "build": "echo appb-out > out.txt"
+  }
+}
